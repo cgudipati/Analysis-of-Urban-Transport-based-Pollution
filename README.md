@@ -5,11 +5,11 @@ This project arises amidst the global Coronavirus lockdown, which has turned ski
 Perhaps we can maintain this environmental health even after the lockdown.
 This is a collection of the data and analysis methods that I have used for my research work.
 
-##The following are the raw data files
+## The following are the raw data files
 *Urban Transport Emissions Reduction (Responses) - Form responses 1   (PDF)
 *Urban Transport Emissions Reduction (Responses) (Excel)
 
-##Procedure
+## Procedure
 *Raw data was taken from a Google Forms based survey.
 *Raw data includes participants from India and England. A real world ratio has been used between participants in terms of tiers of cities.
 *This data has been plotted and analyzed using general trends of pollutant emissions. There are files detailing on the methodologies and estimations used.
